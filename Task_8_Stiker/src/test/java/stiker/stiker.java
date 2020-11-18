@@ -39,7 +39,6 @@ public class stiker {
                 System.out.println("Ошибка со стикерами");
                 return;
             }
-            System.out.println("Один стикер");
         }
     }
     @After
